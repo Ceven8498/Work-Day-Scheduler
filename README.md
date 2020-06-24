@@ -27,4 +27,8 @@ THEN the saved events persist.
 -Bootstrap
 -JQuery
 
-[img]
+![img screenshot](./screenshot.png)
+
+[link]https://ceven8498.github.io/Work-Day-Scheduler/.
+
+[RepoLink]https://github.com/Ceven8498/Work-Day-Scheduler
