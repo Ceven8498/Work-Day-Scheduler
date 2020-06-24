@@ -21,4 +21,10 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist.
 
+# Third Party Assets:
+-Momement.js
+-Font Awesome
+-Bootstrap
+-JQuery
+
 [img]
